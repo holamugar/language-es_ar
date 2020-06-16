@@ -1,8 +1,8 @@
 {
     "name": "mugar/language-es_ar",
-    "description": "Spanish (Argentina) language pack",
+    "description": "Spanish (Argentina) language pack.",
     "require": {
-        "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0",
+        "php": "~7.1.0||~7.2.0||~7.3.0||~7.4.0",
         "magento/framework": "*"
     },
     "type": "magento2-language",
