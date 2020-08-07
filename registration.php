@@ -8,8 +8,12 @@
  * @author     Mugar (https://www.mugar.io/)
  */
 
-\Magento\Framework\Component\ComponentRegistrar::register(
-    \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
+declare(strict_types=1);
+
+use Magento\Framework\Component\ComponentRegistrar;
+
+ComponentRegistrar::register(
+    ComponentRegistrar::LANGUAGE,
     'mugar_es_ar',
     __DIR__
 );
