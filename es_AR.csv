@@ -3649,7 +3649,7 @@ File,Archivo,module,Magento_AdvancedCheckout
 "File handler unreachable","Controlador de archivo inalcanzable",module,Magento_Sitemap
 "File has been not created","Archivo no ha sido creado",module,Magento_ScheduledImportExport
 "File history path:","Ruta del archivo de historia:",module,Magento_ScheduledImportExport
-"File is valid! To start import process press ""Import"" button","El archivo no es correcto. Para empezar el proceso de importación pulse el botón ""Importar""",module,Magento_ImportExport
+"File is valid! To start import process press ""Import"" button","El archivo es correcto. Para empezar el proceso de importación pulse el botón ""Importar""",module,Magento_ImportExport
 "File not found: ""%1"".","No se encontró el archivo: ""%1"".",module,Magento_Theme
 "File size in bytes.","Tamaño del archivo en bytes.",module,Magento_Sitemap
 "File system","Sistema de archivos",module,Magento_MediaStorage
