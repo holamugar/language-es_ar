@@ -8299,7 +8299,7 @@ Small,Pequeño,module,Magento_Catalog
 "Something went wrong while updating these review(s).","Algo salió mal al actualizar estos exámenes.",module,Magento_Review
 "Something went wrong while validating the VAT ID.","Se produjo un error al validar la ID del IVA.",module,Magento_Customer
 "Something went wrong while writing to the backup file ""%1"".","Algo salió mal al escribir en el archivo de copia de seguridad ""%1"".",module,Magento_Backup
-"Something went wrong with the subscription.","Algo salió mal con la suscripción de las Naciones Unidas.",module,Magento_Newsletter
+"Something went wrong with the subscription.","Algo salió mal con la suscripción.",module,Magento_Newsletter
 "Something went wrong. Please try again.","Algo salió mal. Por favor, inténtelo de nuevo.",module,Magento_Backend
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Algo salió mal: el monto pagado no coincide con el total del pedido. Por favor, corrija esto y vuelva a intentarlo.",module,Magento_Authorizenet
 "Sorry, but a rate for the same website, customer group and direction or covering rate already exists.","Lo sentimos, pero un tipo con el mismo sitio web, tarifa de grupo y dirección o con cliente ya existe.",module,Magento_Reward
