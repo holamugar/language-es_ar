@@ -2,11 +2,11 @@
     "name": "mugar/language-es_ar",
     "description": "Spanish (Argentina) language pack.",
     "require": {
-        "php": "~7.1.0||~7.2.0||~7.3.0||~7.4.0",
+        "php": "~7.4.0||~8.0||~8.1||~8.2||~8.3",
         "magento/framework": "*"
     },
     "type": "magento2-language",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "license": [
         "MIT"
     ],
