@@ -6571,6 +6571,7 @@ Physical,Físico,module,Magento_GiftCard
 "Please, select attribute(s)","Por favor, seleccione atributo(s)",module,Magento_ConfigurableProduct
 "Please, select image(s) for your attribute","Por favor, seleccione imágen(es) para su atributo",module,Magento_ConfigurableProduct
 "Please, specify origin country","Por favor, indicar país de origen",module,Magento_Dhl
+"Please type the letters and numbers below","Escriba las letras y números a continuación",module,Magento_Captcha
 Points,Puntos,module,Magento_Reward
 "Points Incentive Redemption","Puntos de incentivo por cancelación",module,Magento_Paypal
 "Points to Currency","Puntos a moneda",module,Magento_Reward
@@ -8884,6 +8885,8 @@ Text,Texto,module,Magento_CheckoutAgreements
 "The coupon code ""%1"" is not valid.","El cupón ""%1"" no es válido.",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","El cupón ""%1"" no es válido.",module,Magento_AdvancedCheckout
 "The coupon code has been accepted.","El código del cupón se ha aceptado.",module,Magento_Sales
+"The coupon code isn't valid. Verify the code and try again.","El código de cupón no es válido. Verifique el código y vuelva a intentarlo.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","El código de cupón no es válido. Verifique el código y vuelva a intentarlo.",module,Magento_SalesRule
 "The credit card number doesn't match the credit card type.","El Número de la tarjeta de crédito no corresponde al tipo de la tarjeta.",module,Magento_Payment
 "The credit memo email was sent.","El correo electrónico de la factura rectivicada ha sido enviada.",module,Magento_Sales
 "The credit memo email wasn't sent.","No fue enviado el email de nota de crédito.",module,Magento_Sales
