@@ -4195,7 +4195,7 @@ Identifier,Identificador,module,Magento_Cms
 "Identifying Fields required","Identificación de campos requeridos",module,Magento_Sales
 "Identity link URL","URL de enlace de identidad",module,Magento_Integration
 "Identity morphing. Multiple values of an  dentity element are linked to a value of a different identity element. For example, m ltiple phone numbers are linked to a single account number","Identidad morphing. Los valores múltiples de un elemento de identidad están vinculados a un valor de un elemento de identidad diferente. Por ejemplo, varios números de teléfono están vinculadas a un único número de cuenta",module,Magento_Cybersource
-"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","Si %s %s %s para una subselección de artículos en la cesta coincidiendo %s de estas condiciones:",module,Magento_SalesRule
+"If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:","Si %1 %2 %3 para una subselección de artículos en la cesta coincidiendo %4 de estas condiciones:",module,Magento_SalesRule
 "If %1 of these conditions are %2:","Si %1 de estas condiciones son %2:",module,Magento_Rule
 "If 0 is specified, CAPTCHA on the Login form will be always available.","Si se especifica 0, el CAPTCHA siempre estará disponible en el formulario de inicio de sesión.",module,Magento_Captcha
 "If Customer Address %1 State/Province specified","Si se especifica al cliente dirección %1 provincia",module,Magento_CustomerSegment
@@ -4204,7 +4204,7 @@ Identifier,Identificador,module,Magento_Cms
 "If Order Addresses match %1 of these Conditions:","Si pedido direcciones coinciden con %1 de estas condiciones:",module,Magento_CustomerSegment
 "If Product %1 %2 and matches %3 of these Conditions:","Si producto %1 %2 y %3 coincide con una de estas condiciones:",module,Magento_CustomerSegment
 "If Product is %1 in the %2 with %3 of these Conditions match:","Si el producto es coincidir con %1 en el %2 con %3 de estas condiciones:",module,Magento_CustomerSegment
-"If an item is %1 in the cart with %2 of these conditions true:","Si un artículo es %s en la cesta con %s de estas condiciones verdaderas:",module,Magento_SalesRule
+"If an item is %1 in the cart with %2 of these conditions true:","Si un artículo es %1 en la cesta con %2 de estas condiciones verdaderas:",module,Magento_SalesRule
 "If an item is %1 in the shopping cart and %2 of these conditions match:","Si un elemento es %1 en el carrito de compras con %2 de coincidencia de estas condiciones:",module,Magento_Reminder
 "If an item is %1 in the wish list and %2 of these conditions match:","Si un elemento es %1 en la lista de deseos con %2 de coincidencia de estas condiciones:",module,Magento_Reminder
 "If empty no expiration.","Si está vacío no hay vencimiento.",module,Magento_GiftCard
