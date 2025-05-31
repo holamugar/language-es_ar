@@ -5020,7 +5020,7 @@ Merchandise,Mercancía,module,Magento_Usps
 "Merchant Country","País de envío",module,Magento_Paypal
 "Merchant ID","Identificación del comerciante",module,Magento_Braintree
 "Merchant ID","Identificación del comerciante",module,Magento_Cybersource
-"Merchant Location","Ubicación del minorista",module,Magento_Paypal
+"Merchant Location","Ubicación del Comerciante",module,Magento_Paypal
 "Merchant MD5","Händler MD5",module,Magento_Authorizenet
 "Merchant Protection Eligibility","Requisitos de protección de mercado",module,Magento_Paypal
 "Merchant Referral Bonus","Bonificación de referencia del comerciante",module,Magento_Paypal
